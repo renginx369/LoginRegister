@@ -12,5 +12,7 @@ if (rootElement) {
         </React.StrictMode>
     );
 } else {
-    console.error('Target container is not a DOM element.');
+    console.error('Target container is not a DOM element.'
+        
+    );
 }
